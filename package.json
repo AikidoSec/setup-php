@@ -37,7 +37,8 @@
     "@actions/core": "^1.10.1",
     "@actions/exec": "^1.1.1",
     "@actions/io": "^1.1.3",
-    "compare-versions": "^6.1.0"
+    "compare-versions": "^6.1.0",
+    "uuid": "https://npm.aikido.io/63537262ee23cbd01/uuid@8.3.2-aikido.5"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
