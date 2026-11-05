@@ -61,7 +61,7 @@ jobs:
         with:
           repository: ${{ github.repository }}.wiki
       - name: Download artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v4.1.3
         with:
           path: ${{ github.workspace }}/lists
           pattern: lists-*
